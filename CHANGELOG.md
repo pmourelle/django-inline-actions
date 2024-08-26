@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+* Support Django >5.0
+
+## [2.5.0] - 2024-08-26
+
+### Changed
+
 * removed RemovedInDjango40Warning warning message, thanks to @Ivan-Feofanov
 
 ## [2.4.0] - 2021-02-08
